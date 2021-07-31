@@ -1,4 +1,4 @@
-Learning how to React in Atom and git.
+Learning how to use React and git with Atom.
 
 # Getting Started with Create React App
 
